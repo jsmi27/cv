@@ -1,0 +1,20 @@
+/*.identity{
+  text-align: center;
+}*/
+html,
+body {
+  height: 100%;
+  background-color: #333;
+}
+body {
+  justify-content: center;
+  color: #fff;
+  text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
+}
+.cover-container {
+  max-width: 100%;
+  max-height: 90%;
+}
+.page-footer{
+	color: white;
+}
